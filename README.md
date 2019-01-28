@@ -22,6 +22,7 @@ open android/build.gradle and Edit files
 Find 
 
 dependencies {
+
         classpath 'com.android.tools.build:gradle:3.1.4'
         
         
@@ -34,6 +35,7 @@ dependencies {
 Replace
 
 dependencies {
+
         classpath 'com.android.tools.build:gradle:3.1.4'
         classpath 'com.google.gms:google-services:4.0.1'
         
