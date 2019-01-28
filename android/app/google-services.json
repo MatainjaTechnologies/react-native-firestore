@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091260595302",
+    "firebase_url": "https://myfirestore-97b39.firebaseio.com",
+    "project_id": "myfirestore-97b39",
+    "storage_bucket": "myfirestore-97b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091260595302:android:39a1527c5fb500d2",
+        "android_client_info": {
+          "package_name": "com.firbasework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091260595302-u938ppckkgq44spv6uaon77q6q9c6bs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGvG43jZpw2IsRiyf5I-MmETZ_u6obqcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
